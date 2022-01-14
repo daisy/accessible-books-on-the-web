@@ -1,2 +1,3 @@
 # accessible-books-on-the-web
-Temporary repository to provide a redirect
+
+This repository has moved. Go to [Accessible Books in Browsers](https://daisy.github.io/accessible-books-in-browsers).
